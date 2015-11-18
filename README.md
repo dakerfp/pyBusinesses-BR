@@ -17,6 +17,7 @@ Empresa | Site | Contato
  --- | --- | ---
  Labcodes Software Studio | [http://www.labcodes.com.br](http://www.labcodes.com.br) | contato@labcodes.com.br
  Vinta | [http://www.vinta.com.br](http://www.vinta.com.br) | contact@vinta.com.br
+ Voxar Labs | [http://www.cin.ufpe.br/voxarlabs](http://www.cin.ufpe.br/voxarlabs) |  voxarlabs@cin.ufpe.br
 
 ## Centro-Oeste
 
